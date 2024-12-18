@@ -1,0 +1,16 @@
+header{
+    background-color: #212121 ;
+    text-align: center;
+    width: 100%;
+    
+}
+.logBtn {
+    width: 150px;
+    background-color: #2a58a8;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    color: #eae3d2;
+    cursor: pointer;
+  }
